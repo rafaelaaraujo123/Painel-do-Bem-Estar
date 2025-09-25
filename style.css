@@ -1,0 +1,32 @@
+/* Caixa de entrada dos botões */
+input, button {
+    padding: 14px 24px; /* Mais espaço interno = botões maiores */
+    margin: 10px;
+    border-radius: 20px; /* Bordas mais arredondadas */
+    border: 1px solid rgb(77, 136, 87);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Botões com cor e efeito */
+button {
+    background-color: rgb(4, 131, 67);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(133, 160, 135);
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+h1 {
+    font-size: 40px;
+    background-color: rgb(91, 170, 81);
+}   
